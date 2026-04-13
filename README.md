@@ -2,6 +2,9 @@
 🎓 Computer Engineering Student at Bharati Vidyapeeth College of Engineering, Pune , currently maintaining an 8.3 CGPA.☕ Java Specialist (my preferred language) with additional proficiency in Python, C, and JavaScript.🏗️ Full-Stack Developer experienced in building robust CRUD applications and serverless architectures using Node.js, MongoDB, and PostgreSQL.🌐 Web Development Intern who completed an intensive 1-month internship at Prodigy InfoTech with outstanding remarks.🛡️ Cybersecurity Analyst simulation graduate from Forage, focusing on Identity & Access Management (IAM) and platform integration strategies.🤖 AI Developer who built a voice-controlled assistant featuring speech recognition and NLP for automated web tasks.📍 Smart Solutions Architect behind "ParkEasy," a full-stack serverless app utilizing Google Maps API and Supabase for real-time parking spot discovery.📜 Certified Professional in Data Science for Engineers and Database Management Systems through NPTEL.
 
 
+MY PORTFOLIO: https://vivek-kumar-bvducoep.netlify.app
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek_kumar_tiwary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-b36a442b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:302004vivekkumar@gmail.com) 
 
